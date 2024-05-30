@@ -9,6 +9,10 @@
 		"startIntroPart1": "The Islamic Republic of Pakistan",
 		"startIntroPart2": "Gandhis worst nightmare. Or probably his best dream if you think about it, since now he can rain nuclear hellfire on India's arch-nemisis now!",
 		
+		"uniqueName": "Two-Nation Theory",
+		"unique": ["Improves movement speed on roads", "Earn [200]% of killed [Military] unit's [Strength] as [Faith]"],
+		"favoredReligion": "Islam",
+		
 		"declaringWar": "Our armed forces are the servants of the people, and the people beg for war.",
 		"attacked": "Failure is a word unknown to me.",
 		"defeated": "I have lived as plain Mr. Jinnah and I will die as plain Mr. Jinnah.",
@@ -32,6 +36,7 @@
 		"cities": ["Islamabad","Karachi","Lahore","Quetta","Rawalpindi","Faisalabad","Peshawar","Multan","Hafizabad","Hyderabad",
 			"Gujranwala","Gilgit","Sargodha","Sialkot","Sukkur","Larkana","Mardan","Rahim Yar Khan","Sahiwal","Sheikhupura",
 			"Jhang","Sadiqabad","Kohat","Kasur","Okara","Mingora","Kotri","Dera Ismail Khan","Abbottabad",
-			"Khanpur","Gojra","Dadu","Wah Cantonment","Haroonabad","Taxilla"]
+			"Khanpur","Gojra","Dadu","Wah Cantonment","Haroonabad","Taxilla"],
+		 "spyNames": ["Tanvir", "Faizal", "Shahid", "Imtiaz", "Rizwan", "Abdul", "Shamoon", "Afzal", "Mushaf", "Peter Finke"]
 	}
 ]
