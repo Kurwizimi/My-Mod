@@ -6,7 +6,7 @@
 		"cost": 100,
 		"culture": 5,
 		"maintenance": 40,
-		"uniques": ["+25% Great Person generation in this city"],
+		"uniques": ["+25% Great Person generation in this city","Provides a Mosque in your first 1 cities for free"],
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Monument",
 		"requiredTech": "Drama and Poetry"
