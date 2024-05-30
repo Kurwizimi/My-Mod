@@ -10,6 +10,6 @@
 		"uniques":"Can move immediately once bought",
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
-		"attackSound": "phasers"
+		"attackSound": "tankshot"
 	}
 ]
