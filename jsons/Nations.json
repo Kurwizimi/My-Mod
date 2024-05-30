@@ -9,15 +9,15 @@
 		"startIntroPart1": "The Islamic Republic of Pakistan",
 		"startIntroPart2": "Gandhis worst nightmare. Or probably his best dream if you think about it, since now he can rain nuclear hellfire on India's arch-nemisis now!",
 		
-		"declaringWar": "Our armed forces are the servants of the people, and they beg for war.",
+		"declaringWar": "Our armed forces are the servants of the people, and the people beg for war.",
 		"attacked": "Failure is a word unknown to me.",
-		"defeated": "I have lived as plain Mr. Jinnah and I hope to die as plain Mr. Jinnah.",
-		"introduction": "Greetings, I sincerely hope that our relationship will be friendly and cordial.",
+		"defeated": "I have lived as plain Mr. Jinnah and I will die as plain Mr. Jinnah.",
+		"introduction": "I welcome you to the Republic of Pakistan, I sincerely hope that our relationship will be friendly and cordial.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["This will not do","No. Just no."],
-		"neutralYes": ["We will accept.","This will be beneficial","That is v."],
+		"neutralYes": ["We will accept.","This will be beneficial","Our people will accept"],
 
 		"hateHello": "Be quick.",
 		"hateLetsHearIt": ["Hurry up.","If you insist.","Go on."],
@@ -27,8 +27,8 @@
 		"afterPeace": "Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.",
 		"tradeRequest": "I do not believe in taking the right decision, I take a decision and make it right. This decision will be no different for you. ",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [17,87,64],
+		"innerColor": [255,255,255],
 		"cities": ["Islamabad","Karachi","Lahore","Quetta","Rawalpindi","Faisalabad","Peshawar","Multan","Hafizabad","Hyderabad",
 			"Gujranwala","Gilgit","Sargodha","Sialkot","Sukkur","Larkana","Mardan","Rahim Yar Khan","Sahiwal","Sheikhupura",
 			"Jhang","Sadiqabad","Kohat","Kasur","Okara","Mingora","Kotri","Dera Ismail Khan","Abbottabad",
