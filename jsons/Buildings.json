@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Minar e Pakistan",
+		"replaces": "National Epic",
+		"uniqueTo": "Pakistan",
+		"cost": 100,
+		"culture": 5,
+		"maintenance": 40,
+		"uniques": ["+25% Great Person generation in this city"],
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Monument",
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Breeders",
