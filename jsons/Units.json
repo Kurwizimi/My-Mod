@@ -11,7 +11,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"attackSound": "tankshot"
-	}
+	},
 	{
 		"name": "Dervish Cavalry",
 		"unitType": "Mounted",
@@ -23,5 +23,20 @@
 		"uniques":"Can move immediately once bought","May capture killed [Wounded] units",
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-	}
+	},
+	{
+		"name": "Gajnal",
+		"unitType": "Siege",
+		"uniqueTo": "The Mughals",
+		"replaces": "Cannon",
+		"movement": 3,
+		"strength": 25,
+		"rangedStrength": 60,
+		"cost": 190,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": [,"No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
+	},
 ]
