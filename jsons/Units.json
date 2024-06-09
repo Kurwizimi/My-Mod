@@ -13,7 +13,7 @@
 		"attackSound": "tankshot"
 	}
 	{
-		"name": "Dervish",
+		"name": "Dervish Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Somaliland",
 		"replaces": "Cavalry",
