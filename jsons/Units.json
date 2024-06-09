@@ -12,4 +12,16 @@
 		"requiredResource": "Oil",
 		"attackSound": "tankshot"
 	}
+	{
+		"name": "Dervish",
+		"unitType": "Mounted",
+		"uniqueTo": "Somaliland",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 34,
+		"cost": 150,
+		"uniques":"Can move immediately once bought","May capture killed [Wounded] units",
+		"requiredTech": "Military Science",
+		"requiredResource": "Horses",
+	}
 ]
