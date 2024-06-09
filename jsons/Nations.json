@@ -38,5 +38,34 @@
 			"Jhang","Sadiqabad","Kohat","Kasur","Okara","Mingora","Kotri","Dera Ismail Khan","Abbottabad",
 			"Khanpur","Gojra","Dadu","Wah Cantonment","Haroonabad","Taxilla"],
 		 "spyNames": ["Tanvir", "Faizal", "Shahid", "Imtiaz", "Rizwan", "Abdul", "Shamoon", "Afzal", "Mushaf", "Peter Finke"]
-	}
+	},
+	{
+		"name": "Somaliland",
+		"leaderName": "Sayyid Muhammad Abdullah Hasan",
+		"adjective": ["Somalilander"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your eyes have strayed away from us for far too long, now is our time to strike!",
+		"attacked": "To arms it is then",
+		"defeated": "Our freedom was temporary after all. We shall be bound as slaves for the rest of eternity then.",
+		"introduction": "Hello, We welcome you to our nation.",
+
+		"neutralHello": "Have you finally come here to bless us with recogition yet? No? Oh well...",
+		"hateHello": "What have you come here for?",
+
+		"tradeRequest": "Please accept this deal, it is the best we can offer",
+
+		"outerColor": [0, 109, 33],
+		"innerColor": [223, 0, 0],
+		"favoredReligion": "Islam",
+		"uniqueName": "The Most Legitimate Illegitimate State",
+		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[50]% of excess happiness converted to [Production] <upon declaring friendship> "],
+		"cities": ["Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale","El Afweyn","Aynaba",
+			"Oog","Iskudar","Habariheshay"],
+      		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
+	},
 ]
