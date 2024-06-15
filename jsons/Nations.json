@@ -107,21 +107,21 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Your eyes have strayed away from us for far too long, now is our time to strike!",
-		"attacked": "To arms it is then",
-		"defeated": "Our freedom was temporary after all. We shall be bound as slaves for the rest of eternity then.",
+		"declaringWar": "Time for you to recive the blessing of being part of our glorious empire!",
+		"attacked": "Our troops are ready to burn your cities to the ground.",
+		"defeated": "Our capital has been sacked, our art and culture has been burned to the ground, ... You are now the Emperor of the Mughals.",
 		"introduction": "Hello, We welcome you to our nation.",
 
-		"neutralHello": "Have you finally come here to bless us with recogition yet? No? Oh well...",
-		"hateHello": "What have you come here for?",
+		"neutralHello": "what do you propose?",
+		"hateHello": "You are not worth my time.",
 
-		"tradeRequest": "Please accept this deal, it is the best we can offer",
+		"tradeRequest": "This trade will benifit us both",
 
 		"outerColor": [0, 109, 33],
 		"innerColor": [223, 0, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Indian Architecture",
-		"uniques": ["[+30]% Production when constructing [All] wonders [in all cities]<during a Golden Age> "],
+		"uniques": ["[+50]% Production when constructing [Cultural] wonders [in all cities]<during a Golden Age> "],
 		"cities": ["Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale","El Afweyn","Aynaba",
 			"Oog","Iskudar","Habariheshay"],
       		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
