@@ -20,7 +20,7 @@
 		"movement": 4,
 		"strength": 34,
 		"cost": 150,
-		"uniques":"Can move immediately once bought","May capture killed [Wounded] units",
+		"uniques": ["Can move immediately once bought","May capture killed [Wounded] units"],
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
 	},
