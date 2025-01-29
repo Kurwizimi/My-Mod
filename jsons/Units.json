@@ -7,7 +7,7 @@
 		"movement": 6,
 		"strength": 75,
 		"cost": 300,
-		"uniques":"Can move immediately once bought",
+		"uniques": ["Can move immediately once bought"],
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"attackSound": "tankshot"
@@ -36,7 +36,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": [,"No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
 ]
